@@ -1,4 +1,3 @@
-
 import jwt from "jsonwebtoken";
 export const verifyJWT = (req, res, next) => {
   try {
@@ -25,3 +24,4 @@ export const verifyJWT = (req, res, next) => {
     });
   }
 };
+
