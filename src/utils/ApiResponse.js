@@ -5,4 +5,4 @@
         this.data = data; 
     }
 }
-export default  ApiResponse;
+export default ApiResponse;
